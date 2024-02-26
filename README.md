@@ -1,2 +1,6 @@
-# network
-Network commands
+# Network
+
+## Windows 
+
+## Details With PID
+  netstat -ano
