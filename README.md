@@ -3,4 +3,4 @@
 ## Windows 
 
 ## Details With PID
-  netstat -ano
+    netstat -ano
